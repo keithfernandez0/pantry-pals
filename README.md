@@ -228,4 +228,3 @@ The database schema is modeled conceptually after structured inventory systems u
 ---
 
 **Pantry Pal — Reducing Food Waste Through Intelligent Inventory Management.**
->>>>>>> 378fb782a2ddd8de68ea6cb8f03364f4eb96e819
