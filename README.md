@@ -179,9 +179,9 @@ Each inventory record will include:
 
 ### Role Alignment
 
-* **Solange DePina-Veiga** – Front-end UI/UX design and interface development
-* **Nika Nareklishvili** – Backend logic and application integration
-* **Keith Fernandez** – Database architecture, backend networking logic, security implementation
+* **Solange DePina-Veiga** – Front-end UI/UX design and interface development, MySQL DB admin
+* **Nika Nareklishvili** – Backend logic, project management and application integration
+* **Keith Fernandez** – Front-end UI/UX design, programming security implementation
 
 ---
 
